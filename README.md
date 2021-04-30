@@ -4,16 +4,13 @@
 This project involves the use of 
 
 - Deliverable 1: Preprocessing Data for a Neural Network Model
-- AlphabetSoupCharity.ipynb file for Deliverables 1 and 2
-- AlphabetSoupCharity.h5 file for Deliverables 1 and 2
+- AlphabetSoupCharity.ipynb file, AlphabetSoupCharity.h5 file
 
 - Deliverable 2: Compile, Train, and Evaluate the Model
-- AlphabetSoupCharity.ipynb file for Deliverables 1 and 2
-- AlphabetSoupCharity.h5 file for Deliverables 1 and 2
+- AlphabetSoupCharity.ipynb file, AlphabetSoupCharity.h5 file
 
 - Deliverable 3: Optimize the Model
-- AlphabetSoupCharity_Optimzation.ipynb file for Deliverable 3
-- AlphabetSoupCharity_Optimzation.h5 file for Deliverable 3
+- AlphabetSoupCharity_Optimzation.ipynb file, AlphabetSoupCharity_Optimzation.h5 file
 
 - Deliverable 4: A Written Report on the Neural Network Model (README.md)
 
