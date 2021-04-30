@@ -1,6 +1,8 @@
 # Neural_Network_Charity_Analysis
 
+## Project Overview
+This project involves the use of 
 
-- git add .
-- git commit -m "Adding files"
-- git push
+## Resources
+- Data Source:
+- Software:
