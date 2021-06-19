@@ -34,16 +34,15 @@ What variable(s) are neither targets nor features, and should be removed from th
 
 Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-- 
+- The model is composed of 80 and 30 neurons within two hidden layers, and two activation functions.
 
 Were you able to achieve the target model performance?
-- 
+- The target model performance was not acheived
 
 What steps did you take to try and increase model performance?
-- 
+- Bucketing, organizing values by intervals.
 
 
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
-
-- There is a summary of the results
-- There is a recommendation on using a different model to solve the classification problem, and justification
+- The accuracy of the deep learning network model was 73%, and did not reach the target 75% accuracy. The model is not outperforming.
+- In a binary classification, we may use a supervised machine learning model to combine numerous decision trees to generate an output. This could be evaluated against this deep learning model.
