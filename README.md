@@ -1,40 +1,47 @@
 # Neural_Network_Charity_Analysis
 
 ## Project Overview
-This project involves the use of 
-
-- Deliverable 1: Preprocessing Data for a Neural Network Model
-- AlphabetSoupCharity.ipynb file, AlphabetSoupCharity.h5 file
-
-- Deliverable 2: Compile, Train, and Evaluate the Model
-- AlphabetSoupCharity.ipynb file, AlphabetSoupCharity.h5 file
-
-- Deliverable 3: Optimize the Model
-- AlphabetSoupCharity_Optimzation.ipynb file, AlphabetSoupCharity_Optimzation.h5 file
-
-- Deliverable 4: A Written Report on the Neural Network Model (README.md)
+In this project, we'll use deep learning neural networks with the Python TensorFlow platform to analyze charitable donations. The basic method is as follows:
+- Process the data for the neural network model
+- Train and evaluate the model
+- Optimize the model
 
 ## Resources
-- Data Source:
-- Software:
+- Data Source: charity_data.csv
+- Software: Python, Anaconda, Jupyter Notebook
 
 
-## Written Analysis
-Overview of the analysis: Explain the purpose of this analysis.
+## Results:
+### Deliverable 1: Preprocessing Data for a Neural Network Model
+- AlphabetSoupCharity.ipynb file, AlphabetSoupCharity.h5 file
 
-Results:
-- Using bulleted lists and images to support your answers, address the following questions.
-  - There is a bulleted list that answers all six questions
+### Deliverable 2: Compile, Train, and Evaluate the Model
+- AlphabetSoupCharity.ipynb file, AlphabetSoupCharity.h5 file
 
-- Data Preprocessing
-- What variable(s) are considered the target(s) for your model?
-- What variable(s) are considered to be the features for your model?
-- What variable(s) are neither targets nor features, and should be removed from the input data?
+### Deliverable 3: Optimize the Model
+- AlphabetSoupCharity_Optimzation.ipynb file, AlphabetSoupCharity_Optimzation.h5 file
 
-- Compiling, Training, and Evaluating the Model
-- How many neurons, layers, and activation functions did you select for your neural network model, and why?
-- Were you able to achieve the target model performance?
-- What steps did you take to try and increase model performance?
+### Deliverable 4: A Written Report on the Neural Network Model 
+Data Preprocessing
+What variable(s) are considered the target(s) for your model?
+- The column IS_SUCCESSFUL is the target of the model
+
+What variable(s) are considered to be the features for your model?
+- The features of the model include APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
+
+What variable(s) are neither targets nor features, and should be removed from the input data?
+- EIN and NAME are identification information and have been removed from the input data
+
+Compiling, Training, and Evaluating the Model
+How many neurons, layers, and activation functions did you select for your neural network model, and why?
+- 
+
+Were you able to achieve the target model performance?
+- 
+
+What steps did you take to try and increase model performance?
+- 
+
 
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
