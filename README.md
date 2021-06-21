@@ -27,14 +27,14 @@ What variable(s) are considered the target(s) for your model?
 - The column IS_SUCCESSFUL is the target of the model
 
 What variable(s) are considered to be the features for your model?
-- The features of the model include APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
+- The features of the model include APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, etc.
 
 What variable(s) are neither targets nor features, and should be removed from the input data?
 - EIN and NAME are identification information and have been removed from the input data
 
 Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-- The model is composed of 80 and 30 neurons within two hidden layers, and two activation functions.
+- The model is composed of two layers, multiple neurons, and two activation functions.
 
 Were you able to achieve the target model performance?
 - The target model performance was not acheived
@@ -44,5 +44,5 @@ What steps did you take to try and increase model performance?
 
 
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
-- The accuracy of the deep learning network model was 73%, and did not reach the target 75% accuracy. The model is not outperforming.
+- The accuracy of the deep learning network model was 73%, and did not reach the target 75% accuracy.
 - In a binary classification, we may use a supervised machine learning model to combine numerous decision trees to generate an output. This could be evaluated against this deep learning model.
